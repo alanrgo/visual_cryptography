@@ -80,6 +80,10 @@ There is currently no automated test suite in this repository.
 
 For a quick sanity check, run scripts directly with sample images (for example, `cipher.py` and `xmas.py`) and verify generated files in output folders.
 
+## References
+
+- Author's work: https://ic.unicamp.br/~reltech/PFG/2018/PFG-18-21.pdf
+
 ## Contributing
 
 No formal contributing guide is currently defined. Open an issue or pull request with a clear description of the change.
